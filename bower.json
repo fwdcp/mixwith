@@ -1,0 +1,23 @@
+{
+  "name": "mixwith",
+  "main": "mixwith.js",
+  "homepage": "https://github.com/justinfagnani/mixwith.js",
+  "authors": [
+    "Jusitn Fagnani <justin@fagnani.com>"
+  ],
+  "description": "A simple, powerful mixin applier for JavaScript classes",
+  "keywords": [
+    "mixin",
+    "mixins",
+    "classes"
+  ],
+  "license": "Apache-2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
